@@ -2,3 +2,16 @@ body{
     font-family: 'Poppins', sans-serif;
     font: weight 700px;
 }
+.apple-store{
+    border: white solid 1px;
+    border-radius: 8px;
+    padding: 5px 8px;
+}
+.google-play{
+    border: white solid 1px;
+    border-radius: 8px;
+}
+.footer-part{
+    color: white;
+    text-decoration: none;
+}
